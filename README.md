@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Manish Singh</h1>
-<h3 align="center">An individual who is seeking a challenging position in a reputed organization to show my creativity and also to enhance and to explore my knowledge and to become more productive.</h3>
+<h1 align="center">Hi 👋, I'm Manish Singh Bhadouria</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-bhadouria&label=Profile%20views&color=0e75b6&style=flat" alt="manish-bhadouria" /> </p>
+<h3 align="center">Senior Associate Software Engineer at Tracxn. <p align="right"><a href="tracxn.com" target="blank"><img align="center" src="https://www.thetaray.com/wp-content/uploads/2020/04/tracxn.png" alt="tracxn.com" height="65" width="100" /></a></p></h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=manish-bhadouria&label=Profile%20views&color=0e75b6&style=flat" alt="manish-bhadouria" />
+</p>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Mongodb**
 
